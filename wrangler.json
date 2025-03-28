@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "young-wind-7d25",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "04de737e-0da1-41f1-8ab7-10cf16609023",
+      "database_name": "silent-resonance-61b1-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
